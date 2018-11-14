@@ -1,2 +1,2 @@
 # image-sftp
-Send images to an sftp
+Send images to an sftp using pysftp
